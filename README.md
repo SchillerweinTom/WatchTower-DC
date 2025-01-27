@@ -18,16 +18,14 @@ Il sistema è progettato per fornire un monitoraggio continuo e consentire l'imp
 
 ## Architettura del Sistema
 
-**M5Stack**: Piattaforma hardware principale, utilizzata per raccogliere i dati dai sensori e inviarli al server.
-**Sensori**:
+1. **M5Stack**: Piattaforma hardware principale, utilizzata per raccogliere i dati dai sensori e inviarli al server.
+2. **Sensori**:
    - 
+3. **Server Backend**:
    - 
-**Server Backend**:
+4. **Database**:
    - 
-**Database**:
-   - 
-**Frontend Dashboard**:
-   - 
+5. **Frontend Dashboard**:
 
 ## Setup del Progetto
 
