@@ -1,0 +1,7 @@
+Temperatura, umidità e pressione: https://shop.m5stack.com/products/m5stickc-env-hat-iii-sht30-qmp6988
+Temperatura, umidità e pressione: https://shop.m5stack.com/products/env-iii-unit-with-temperature-humidity-air-pressure-sensor-sht30-qmp6988
+Movimento (a infrarossi): https://shop.m5stack.com/products/pir-module
+Accellerometro: https://shop.m5stack.com/products/3-axis-digital-accelerometer-unit-adxl345
+Gas: https://shop.m5stack.com/products/tvoc-eco2-gas-unit-sgp30
+NanoC6 Controller: https://shop.m5stack.com/products/m5stack-nanoc6-dev-kit
+ ✔ Core2: https://shop.m5stack.com/products/m5stack-core2-esp32-iot-development-kit?srsltid=AfmBOorOvMVkU8z5U9elgzv2qvQgeFfeVCaBLYwxHr-l4LPALtwEA3lw
