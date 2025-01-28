@@ -1,7 +1,6 @@
 Temperatura, umidità e pressione: https://shop.m5stack.com/products/env-iii-unit-with-temperature-humidity-air-pressure-sensor-sht30-qmp6988
 Movimento (a infrarossi): https://shop.m5stack.com/products/pir-module
 Accellerometro: https://shop.m5stack.com/products/3-axis-digital-accelerometer-unit-adxl345
-Gas: https://shop.m5stack.com/products/tvoc-eco2-gas-unit-sgp30
 Rfid: https://shop.m5stack.com/products/rfid-unit-2-ws1850s
 KeyBoard: https://shop.m5stack.com/products/cardkb-mini-keyboard-programmable-unit-v1-1-mega8a
 Clock: https://shop.m5stack.com/products/red-7-segment-digit-clock-unit
