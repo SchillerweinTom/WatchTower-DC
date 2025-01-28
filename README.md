@@ -1,6 +1,6 @@
-# WatchTower DC
+# WatchTower
 
-**WatchTower DC** è un sistema di monitoraggio fisico per il server **Domain Controller** situato nella stanza server al quarto piano della **CPT di Trevano**. Il sistema utilizza una serie di sensori per monitorare vari parametri ambientali, tra cui **umidità**, **temperatura**, **fumo**, **accessi** e **video**, i cui dati vengono visualizzati in tempo reale su una **dashboard** dedicata per i **sistemisti**.
+**WatchTower Server Room** è un sistema di monitoraggio fisico per la **sala server** situata al quarto piano della **CPT di Trevano**. Il sistema utilizza una serie di sensori per monitorare vari parametri ambientali, tra cui **umidità**, **temperatura**, **fumo**, **accessi** e **video**, i cui dati vengono visualizzati in tempo reale su una **dashboard** dedicata per i **sistemisti**.
 
 Il sistema è progettato per fornire un monitoraggio continuo e consentire l'impostazione di notifiche e allerte per eventi specifici, come valori anomali di temperatura, fumo o accessi non autorizzati.
 
