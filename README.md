@@ -1,6 +1,6 @@
 # WatchTower
 
-**WatchTower Server Room** è un sistema di monitoraggio fisico per la **sala server** situata al quarto piano della **CPT di Trevano**. Il sistema utilizza una serie di sensori per monitorare vari parametri ambientali, tra cui **umidità**, **temperatura**, **fumo**, **accessi** e **video**, i cui dati vengono visualizzati in tempo reale su una **dashboard** dedicata per i **sistemisti**.
+**WatchTower Server Room** è un sistema di monitoraggio fisico per la **sala server** situata al quarto piano della **CPT di Trevano**. Il sistema utilizza una serie di sensori per monitorare vari parametri ambientali, tra cui **umidità**, **temperatura**, **gas** e **accessi**, i cui dati vengono visualizzati in tempo reale su una **dashboard** dedicata per i **sistemisti**.
 
 Il sistema è progettato per fornire un monitoraggio continuo e consentire l'impostazione di notifiche e allerte per eventi specifici, come valori anomali di temperatura, fumo o accessi non autorizzati.
 
@@ -9,12 +9,11 @@ Il sistema è progettato per fornire un monitoraggio continuo e consentire l'imp
 - **Monitoraggio in tempo reale** dei parametri ambientali:
   - Temperatura
   - Umidità
-  - Fumo (per rilevare incendi)
+  - Gas
   - Accesso (rilevamento di accessi non autorizzati)
-  - Video (monitoraggio visivo della stanza server)
   
 - **Dashboard interattiva** per la visualizzazione dei dati raccolti dai sensori.
-- **Notifiche e allerte** via e-mail, SMS o altre piattaforme per eventi critici (ad esempio: allarme fumo o temperatura troppo alta).
+- **Notifiche e allerte** via e-mail, per eventi critici
 
 ## Architettura del Sistema
 
@@ -33,7 +32,7 @@ Il sistema è progettato per fornire un monitoraggio continuo e consentire l'imp
 
 - **Hardware**:
   - M5Stack
-  - Sensori di temperatura, umidità, fumo e accesso
+  - Sensori di temperatura, umidità, gas e accesso
 - **Software**:
   - 
 
